@@ -1,0 +1,5 @@
+/* Файл стилів як модуль для App.jsx */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif; /* Додаткові стилі для тексту */
+}
